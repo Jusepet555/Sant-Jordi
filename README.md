@@ -12,3 +12,4 @@
 4. Tria `Deploy from a branch`.
 5. Selecciona `main` i `/(root)`.
 6. Guarda i espera 1 o 2 minuts.
+https://jusepet555.github.io/Sant-Jordi/
